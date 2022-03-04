@@ -7,7 +7,7 @@
 
 ### Heroku Deploy ❤️
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VenujaBots/Google-Translator-Bot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/really650a/Google-Translator-Bot.git)
 
 
 
